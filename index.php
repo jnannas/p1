@@ -10,10 +10,10 @@
 <body>
 		<h1>John Nannas <br> CSCI E-15 Project Portfolio </h1>
 
-		<h3>Project 2 Title</h3>
+		<h3>xkcd Password Generator</h3>
 		<ul>
-			<li>View:   [LINK]</li>
-			<li>Github: [LINK]</li>
+			<li>View:   <a href='http://p2.jwnannas.com'>[LINK]</a></li>
+			<li>Github: <a href='https://github.com/jnannas/p2'>[LINK]</a></li>
 		</ul>
 
 		<h3>Project 3 Title</h3>
